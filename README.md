@@ -13,7 +13,7 @@ As of October 2025, I have completed my first three study terms, 2A being the mo
 * Github
 
 
-## Languages 
+## 🌎 Languages 
 * Java
 * C
 * C++
