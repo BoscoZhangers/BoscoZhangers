@@ -1,5 +1,8 @@
 ## Hi! I'm Bosco 👋
 
+## 📚 Education
+I started my first year as an Honours Mathematics student at the University of Waterloo until I later transferred into Honours Computer Science through a competitve process. 
+As of October 2025, I have completed my first three study terms and I'm currently employed as an ISA (Instructional Support Assistant) for an introductory computer science course, CS 135 Designing Functional Programs as my co-op. 
 <!--
 **BoscoZhangers/BoscoZhangers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
