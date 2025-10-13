@@ -12,6 +12,7 @@ As of October 2025, I have completed my first three study terms, 2A being the mo
 * VIM
 * Github
 
+## ${}$
 
 ## 🌎 Languages 
 * Java
@@ -24,6 +25,16 @@ As of October 2025, I have completed my first three study terms, 2A being the mo
 * Cantonese
 * French
 * Mandarin
+
+## ${}$
+
+## Jobs and Experience
+
+## ${}$
+
+## Hackathons
+1) June 2025, Spurhacks
+
 
 <!--
 **BoscoZhangers/BoscoZhangers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
