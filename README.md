@@ -26,7 +26,7 @@ As of October 2025, I have completed my first three study terms, 2A being the mo
 * French
 * Mandarin
 
-  [![My Skills](https://skillicons.dev/icons?i=js,c,c++,bash,linux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,c,c++,racket,bash,linux)](https://skillicons.dev)
 
 
 ## ${}$
