@@ -27,7 +27,7 @@ As of October 2025, I have completed my first three study terms, 2A being the mo
 * Mandarin
 
 #### I use everyday
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,linux,discord,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,linux,discord,github,vscode)](https://skillicons.dev)
 
 #### Know a lot, but don't use frequently
   [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
