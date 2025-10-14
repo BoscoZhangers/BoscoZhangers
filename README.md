@@ -12,19 +12,6 @@ As of October 2025, I have completed my first three study terms, 2A being the mo
 * VIM
 * Github
 
-## ${}$
-
-## 🌎 Languages 
-* Java
-* C
-* C++
-* Racket (Functional Programming)
-* HTML
-* Javascript
-* English
-* Cantonese
-* French
-* Mandarin
 
 #### I use everyday
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,linux,discord,github,vscode)](https://skillicons.dev)
