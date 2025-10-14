@@ -28,6 +28,7 @@ As of October 2025, I have completed my first three study terms, 2A being the mo
 
 #### I use everyday
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,bash,linux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=discord,github)](https://skillicons.dev)
 
 #### Know a lot, but don't use frequently
 
