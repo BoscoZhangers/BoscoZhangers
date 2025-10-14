@@ -1,4 +1,4 @@
-## Hi! I'm Bosco 👋
+## Hey there, I'm Bosco! 👋
 
 ## 📚 Education
 
