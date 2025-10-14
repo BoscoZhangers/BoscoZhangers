@@ -26,6 +26,9 @@ As of October 2025, I have completed my first three study terms, 2A being the mo
 * French
 * Mandarin
 
+* <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/81caf366-081d-46ca-b0c1-bb819f7c6842" />
+
+
 ## ${}$
 
 ## Jobs and Experience
