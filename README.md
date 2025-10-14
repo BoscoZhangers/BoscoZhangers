@@ -10,7 +10,8 @@ As of October 2025, I have completed my first three study terms, 2A being the mo
 * Debugging
 * Bash Scripting
 * VIM
-* Github
+* Algorithm Design and Efficiency Analysis
+* Exception Handling & Quality Assurance Testing
 
 
 #### I use everyday
