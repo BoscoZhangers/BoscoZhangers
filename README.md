@@ -14,7 +14,8 @@ As of October 2025, I have completed my first three study terms, 2A being the mo
 * Bash Scripting
 * VIM
 * Algorithm Design and Efficiency Analysis
-* Exception Handling & Quality Assurance Testing
+* Exception Handling & Quality Assurance Testing, Program Verification
+* Compiler Design
 
 
 #### I use everyday:
@@ -26,10 +27,10 @@ As of October 2025, I have completed my first three study terms, 2A being the mo
 #### Still learning: 
  [![My Skills](https://skillicons.dev/icons?i=html,js,react)](https://skillicons.dev)
 
-## Hackathon Experience
+## 👨🏻‍💻 Hackathon Experience
 * SpurHacks June 2025, IntelliHQ
 * 
-## Projects
+## 🗂️ Projects
 
-## Job Experience
+## 💼 Job Experience
 
