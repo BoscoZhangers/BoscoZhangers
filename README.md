@@ -30,3 +30,6 @@ As of October 2025, I have completed my first three study terms, 2A being the mo
 * SpurHacks June 2025, IntelliHQ
 * 
 ## Projects
+
+## Job Experience
+
