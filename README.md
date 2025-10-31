@@ -29,8 +29,11 @@ As of October 2025, I have completed my first three study terms, 2A being the mo
 
 ## 👨🏻‍💻 Hackathon Experience
 * SpurHacks June 2025, IntelliHQ
-* 
+
+
 ## 🗂️ Projects
 
 ## 💼 Job Experience
+* CS 135 ISA @ University of Waterloo (September - December, 2025)
+* 
 
