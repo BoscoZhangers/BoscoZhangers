@@ -35,5 +35,5 @@ As of October 2025, I have completed my first three study terms, 2A being the mo
 
 ## 💼 Job Experience
 * CS 135 ISA @ University of Waterloo (September - December, 2025)
-* 
+* Kumon math & Reading Centre Teaching Assistant & Worksheet Grader (May, 2022 - April, 2023)
 
