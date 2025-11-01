@@ -2,6 +2,8 @@
 
 I'm a motivated and passionate full-stack developer with a keen interest in software development, artificial intelligence, and machine learning. I am always looking for opportunities to learn and make a positive impact.
 
+<br>
+
 ## 📚 Education
 
 I started my first year as an Honours Mathematics student at the University of Waterloo until I later transferred into Honours Computer Science through a competitive process after I fell in love with programming. 
@@ -30,8 +32,11 @@ As of October 2025, I have completed my first three study terms, 2A being the mo
 ## 👨🏻‍💻 Hackathon Experience
 * SpurHacks June 2025, IntelliHQ
 
+<br>
 
 ## 🗂️ Projects
+
+<br>
 
 ## 💼 Job Experience
 * CS 135 ISA @ University of Waterloo (September - December, 2025)
