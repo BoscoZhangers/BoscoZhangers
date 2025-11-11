@@ -29,7 +29,7 @@ As of October 2025, I have completed my first three study terms, 2A being the mo
   [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 #### Still learning: 
- [![My Skills](https://skillicons.dev/icons?i=html,js,react)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,js,react,python)](https://skillicons.dev)
 
 <br>
 
