@@ -1,6 +1,6 @@
 ## Hey there, I'm Bosco! 👋
 
-I'm a motivated and passionate full-stack developer with a keen interest in software development, artificial intelligence, and machine learning. I've recently been deeply invested in studying neural networks and large language models LLMs! I am always looking for opportunities to learn and make a positive impact.
+I'm a motivated and passionate full-stack developer with a keen interest in software development, artificial intelligence, and machine learning. I've recently been deeply invested in studying neural networks and large language models (LLMs)! I am always looking for opportunities to learn and make a positive impact.
 
 <br>
 
