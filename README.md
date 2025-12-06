@@ -19,6 +19,7 @@ As of October 2025, I have completed my first three study terms, 2A being the mo
 * VIM
 * Algorithm Design and Efficiency Analysis
 * Exception Handling & Quality Assurance Testing, Program Verification
+* MIPS Assembly Language and Memory Management
 * Compiler Design
 
 
