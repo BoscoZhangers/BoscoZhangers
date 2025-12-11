@@ -12,11 +12,8 @@ As of October 2025, I have completed my first three study terms, 2A being the mo
 <br>
 
 ## ✨ Skills & Experience
-* Racket (Functional Programming)
 * Object-Oriented Design
-* Debugging
 * Bash Scripting
-* VIM
 * Algorithm Design and Efficiency Analysis
 * Exception Handling & Quality Assurance Testing, Program Verification
 * MIPS Assembly Language and Memory Management
