@@ -41,7 +41,10 @@ As of October 2025, I have completed my first three study terms, 2A being the mo
 <br>
 
 ## 🗂️ Projects
-
+* AI Chess Engine
+* IntelliHQ
+* WLP4 ("Waterloo Language Plus Pointers Plus Procedures") Compiler
+* PocketRPG
 <br>
 
 ## 💼 Job Experience
