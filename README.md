@@ -40,7 +40,7 @@ As of December 2025, I have completed my first 3 study terms, 2A being the most 
 ## 🗂️ Projects
 * AI Chess Engine
 * IntelliHQ
-* WLP4 ("Waterloo Language Plus Pointers Plus Procedures") Compiler
+* WLP4 ("Waterloo Language Plus Pointers Plus Procedures") Compiler Driver
 * PocketRPG
 <br>
 
