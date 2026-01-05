@@ -38,10 +38,12 @@ As of December 2025, I have completed my first 3 study terms, 2A being the most 
 <br>
 
 ## 🗂️ Projects
+* Dec-My-Tree 3D Collaborative Chritmas Tree Decorating Simulator
+* WLP4 ("Waterloo Language Plus Pointers Plus Procedures") Compiler Driver
 * AI Chess Engine
 * IntelliHQ
-* WLP4 ("Waterloo Language Plus Pointers Plus Procedures") Compiler Driver
 * PocketRPG
+* Projectile Motion 2D Simulator
 <br>
 
 ## 💼 Job Experience
