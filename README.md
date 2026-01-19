@@ -1,4 +1,4 @@
-## Hey there, I'm Bosco! 👋
+# Hey there, I'm Bosco! 👋
 
 I'm a motivated and passionate full-stack developer with a keen interest in software development, artificial intelligence, and machine learning. I've recently been deeply invested in studying neural networks and large language models (LLMs)! I am always looking for opportunities to learn and make a positive impact.
 
@@ -38,7 +38,8 @@ As of December 2025, I have completed my first 3 study terms, and am currently i
 <br>
 
 ## 🗂️ Projects
-* Dec-My-Tree 3D Collaborative Chritmas Tree Decorating Simulator
+* VitalSign ASL + Emotion Translator
+* Dec-My-Tree 3D Collaborative Christmas Tree Decorating Simulator
 * WLP4 ("Waterloo Language Plus Pointers Plus Procedures") Compiler Driver
 * AI Chess Engine
 * IntelliHQ
