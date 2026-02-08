@@ -32,7 +32,7 @@ As of December 2025, I have completed my first 3 study terms, and am currently i
 <br>
 
 ## 👨🏻‍💻 Hackathon Experience
-* (scheduled) CxC February 2026
+* CxC February 2026 (Most Creative Data Visualization)
 * DeltaHacks January 2026
 * ChessHacks November 2025
 * SpurHacks June 2025, IntelliHQ
