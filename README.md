@@ -18,17 +18,6 @@ As of December 2025, I have completed my first 3 study terms, and am currently i
 * Exception Handling & Quality Assurance Testing, Program Verification
 * MIPS Assembly Language and Memory Management
 * Compiler Design
-
-
-#### I use everyday:
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,linux,discord,github,vscode,assembly)](https://skillicons.dev)
-
-#### Know a lot, but don't use frequently:
-  [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-
-#### Still learning: 
- [![My Skills](https://skillicons.dev/icons?i=html,js,react,python)](https://skillicons.dev)
-
 <br>
 
 ## 👨🏻‍💻 Hackathon Experience
@@ -48,8 +37,4 @@ As of December 2025, I have completed my first 3 study terms, and am currently i
 * PocketRPG
 * Projectile Motion 2D Simulator
 <br>
-
-## 💼 Job Experience
-* CS 135 ISA @ University of Waterloo (September - December, 2025)
-* Kumon Math & Reading Centre Teaching Assistant & Worksheet Grader (May, 2022 - April, 2023)
 
