@@ -12,12 +12,13 @@ As of December 2025, I have completed my first 3 study terms, and am currently i
 <br>
 
 ## ✨ Skills & Experience
-* Object-Oriented Design
-* Bash Scripting
+* Object-Oriented Design and Design Patterns (ex. MVC, Visitor, Observer, Decorator)
+* Python and Bash Scripting
 * Algorithm Design and Efficiency Analysis
 * Exception Handling & Quality Assurance Testing, Program Verification
 * MIPS Assembly Language and Memory Management
 * Compiler Design
+* Threading
 <br>
 
 ## 👨🏻‍💻 Hackathon Experience
