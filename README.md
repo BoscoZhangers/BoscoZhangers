@@ -29,6 +29,7 @@ As of December 2025, I have completed my first 3 study terms, and am currently i
 <br>
 
 ## 🗂️ Projects
+* Darwin UI Web Data Analytics Visualizer and Predictive Traffic Simulator
 * VitalSign ASL + Emotion Translator
 * Dec-My-Tree 3D Collaborative Christmas Tree Decorating Simulator
 * WLP4 ("Waterloo Language Plus Pointers Plus Procedures") Compiler Driver
