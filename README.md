@@ -1,42 +1,27 @@
-# Hey there, I'm Bosco! 👋
+# Bosco Zhang
+**AI Engineering Co-op @ Pitstop (Fullbay) | CS @ University of Waterloo**
 
-I'm a motivated and passionate full-stack developer with a keen interest in software development, artificial intelligence, and machine learning. I've recently been deeply invested in studying neural networks and large language models (LLMs)! I am always looking for opportunities to learn and make a positive impact.
+I build highly optimized backend systems and AI-driven products, taking them from design to production. My core focus is on predictive analytics, document understanding, and building robust APIs that scale. I am currently interning as an AI Software Developer at Fullbay for my Spring 2026 co-op (May 2026 - August 2026).
 
-<br>
+## 🛠️ Technical Arsenal
+* **Languages:** C++, Python, Java, Ruby, Bash
+* **AI/ML & Backend:** PyTorch, FastAPI, REST Architectures
+* **Systems Engineering:** Memory Management (RAII), Compiler Design, Custom Data Structures
 
-## 📚 Education
+## 🚀 Featured Engineering
+**Darwin Predictive Analytics API**
+Architected a REST API using FastAPI and PyTorch deep neural networks to simulate and visualize user interaction heatmaps for frontend web products. 
 
-I started my first year as an Honours Math student at the University of Waterloo until I later transferred into Honours Computer Science through a competitive process. 
-As of December 2025, I have completed my first 3 study terms, and am currently in 2B. I was recruited as an ISA (Instructional Support Assistant) for an introductory computer science course, CS 135 Designing Functional Programs. I am currently assisting in delivering this course to nearly 1000 first-year math and computer science students at UW. 
+**WLP4 Compiler**
+Engineered a C++ compiler for the WLP4 language (Waterloo Language Plus Pointers Plus Procedures). Implemented Simplified Maximal Munch scanning and SLR(1) parsing and utilized the Visitor Design Pattern to handle strict semantic analysis and code generation using RAII and OOP design concepts. Achived a 100% success rate across all test cases and architected a multi-pass optimization pipeline, reducing memory footprint by up to 8%.
 
-<br>
 
-## ✨ Skills & Experience
-* Object-Oriented Design and Design Patterns (ex. MVC, Visitor, Observer, Decorator)
-* Python and Bash Scripting
-* Algorithm Design and Efficiency Analysis
-* Exception Handling & Quality Assurance Testing, Program Verification
-* MIPS Assembly Language and Memory Management
-* Compiler Design
-* Threading
-<br>
+## 🎓 Academic Background
+**University of Waterloo — Honours Computer Science**
+* Successfully transferred from Honours Mathematics to Computer Science through a highly-competitive process.
+* Relevant Coursework: CS 241 Compiler Development, CS 246 Object-Oriented Software Engineering, CS 240 Data Structures, CS 245 Logic and Computation.
 
-## 👨🏻‍💻 Hackathon Experience
-* CxC February 2026 (Most Creative Data Visualization)
-* DeltaHacks January 2026
-* ChessHacks November 2025
-* SpurHacks June 2025, IntelliHQ
-
-<br>
-
-## 🗂️ Projects
-* Darwin UI Web Data Analytics Visualizer and Predictive Traffic Simulator
-* VitalSign ASL + Emotion Translator
-* Dec-My-Tree 3D Collaborative Christmas Tree Decorating Simulator
-* WLP4 ("Waterloo Language Plus Pointers Plus Procedures") Compiler Driver
-* AI Chess Engine
-* IntelliHQ
-* PocketRPG
-* Projectile Motion 2D Simulator
-<br>
-
+## 🏆 Hackathon Highlights
+* **CxC (Feb 2026):** Winner — Most Creative Data Visualization
+* **DeltaHacks (Jan 2026)**
+* **ChessHacks (Nov 2025)**
