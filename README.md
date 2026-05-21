@@ -18,7 +18,8 @@ Engineered a C++ compiler for the WLP4 language (Waterloo Language Plus Pointers
 
 ## 🎓 Academic Background
 **University of Waterloo — Honours Computer Science**
-* Transferred from Honours Mathematics to Computer Science after discovering my passion for programming and artificial intelligence
+* GPA: 4.0/4.0
+* Transferred from Honours Mathematics to Computer Science after discovering my passion for programming & artificial intelligence
 * Relevant Coursework: CS 241 Compiler Development, CS 246 Object-Oriented Software Engineering, CS 240 Data Structures, CS 245 Logic and Computation.
 
 ## 🏆 Hackathon Highlights
