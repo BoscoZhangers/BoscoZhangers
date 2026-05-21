@@ -1,5 +1,5 @@
 # Bosco Zhang
-**AI Engineering Co-op @ Pitstop (Fullbay) | CS @ University of Waterloo**
+**AI Engineering Co-op @ Pitstop (Fullbay) | 3A CS @ University of Waterloo**
 
 I build highly optimized backend systems and AI-driven products, taking them from design to production. My core focus is on predictive analytics, document understanding, and building robust APIs that scale. I am currently interning as an AI Software Developer at Fullbay for my Spring 2026 co-op (May 2026 - August 2026).
 
