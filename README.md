@@ -4,8 +4,8 @@
 I build highly optimized backend systems and AI-driven products, taking them from design to production. My core focus is on predictive analytics, document understanding, and building robust APIs that scale. I am currently interning as an AI Software Developer at Fullbay for my Spring 2026 co-op (May 2026 - August 2026).
 
 ## 🛠️ Technical Arsenal
-* **Languages:** C++, Python, Java, Ruby, Bash
-* **AI/ML & Backend:** PyTorch, FastAPI, REST Architectures
+* **Languages:** C/C++, Python, Java, Ruby, Bash, HTML, CSS, JavaScript, TypeScript, Racket
+* **AI/ML & Backend:** React, PyTorch, FastAPI, REST Architectures
 * **Systems Engineering:** Memory Management (RAII), Compiler Design, Custom Data Structures
 
 ## 🚀 Featured Engineering
